@@ -18,10 +18,6 @@ npm install --save react-router
 
 npm install --save react-router-dom
 
-//if using atom
-
-apm install react
-
 
 ## Available Scripts
 
